@@ -1,9 +1,8 @@
 
-
-export default function UserInput(){
+export default function UserInput() {
     return(
         <>
-            UserInput
+            <input/>
         </>
     )
 }

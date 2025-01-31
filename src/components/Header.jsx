@@ -14,4 +14,5 @@ const HeaderDiv = styled.div`
     //display: center;
     text-align: center;
     font-family: Arial;
+    padding: 10px;
 `
