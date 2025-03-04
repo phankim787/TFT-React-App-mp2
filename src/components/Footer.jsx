@@ -10,7 +10,7 @@ export default function Footer() {
 
 
 const StyledFooter = styled.div`
-    background-color: lightblue;
+    background-color: dimgrey;
     text-align:center;
     padding: 10px;
 `
